@@ -1,6 +1,8 @@
 # Career Advice System
 ## Implementing a Retrieval Augmented Generation (RAG) System
 
+![RAG Pipeline](Data/RAG_pipeline.png)
+
 This repository contains a system for providing personalized career advice using embeddings and generative models. The system processes job data, creates embeddings, and generates career advice based on user queries.
 
 ## Project Structure
